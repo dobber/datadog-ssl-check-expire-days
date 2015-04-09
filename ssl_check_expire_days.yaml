@@ -1,0 +1,8 @@
+init_config:
+
+instances:
+  - site: google.com
+  - site: yahoo.com
+  - site: amazon.com
+  - site: youtube.com
+  - site: facebook.com
